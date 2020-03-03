@@ -1,6 +1,6 @@
 Naive Bayes example about predicting the clicked ads by estimated salary  with Python
 
-This is the Naive Bayes test results. Correlation matrix's result is: <br>
+This is the Naive Bayes test results. Confusion matrix's result is: <br>
 [[65 3 <br>
   &nbsp;&nbsp;7 25]]
 
